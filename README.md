@@ -1,2 +1,0 @@
-# Clickstream_case_study
-Clickstream_case_study
